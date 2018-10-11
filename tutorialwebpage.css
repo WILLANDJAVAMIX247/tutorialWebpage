@@ -14,7 +14,7 @@
     background-color: slategrey;
 }
  #body {
-    background: url(https://darkwebnews.com/wp-content/uploads/2017/11/programming-code.jpg) no-repeat;
+    background: url("programming-code.jpg") no-repeat;
     height: 165px;
     background-size: cover;
  }
